@@ -21,7 +21,7 @@ React Blog - это приложение, демонстрирующее осн�
 1. Склонируйте репозиторий:
 
    
-   git clone https://github.com/VladimirBogomol/My-Projects/React-Blog
+   git clone https://github.com/VladimirBogomol/React-Blog
    
 
 2. Перейдите в директорию проекта:
