@@ -21,13 +21,13 @@ React Blog - это приложение, демонстрирующее осн�
 1. Склонируйте репозиторий:
 
    
-   git clone https://github.com/VladimirBogomol/React-Blog
+   git clone https://github.com/VladimirBogomol/react-blog
    
 
 2. Перейдите в директорию проекта:
 
    
-   cd React-Blog
+   cd react-blog
    
 
 3. Установите зависимости:
